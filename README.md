@@ -1,5 +1,5 @@
 
-<div style="display: flex; ">
+<div style="display: flex; justify-content: space-between">
  <img src="img/Header-Logo-White.png" width="500px">
  <img src="img/Header-Logo-Dark.png" width="500px">
 </div>
