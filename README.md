@@ -18,7 +18,7 @@
 
 <strong>Download and Run Locally:</strong>
 <ol>
- <li>Clone the repository: <code>git clone Clone the repository: git clone [https://github.com/your-username/MangataGalloLuxuryJewelry.git](https://github.com/imranbaryalai/Meta-HTML-CSS-In-Depth-Final-Project)</code></li>
+ <li><code> git clone [https://github.com/your-username/MangataGalloLuxuryJewelry.git](https://github.com/imranbaryalai/Meta-HTML-CSS-In-Depth-Final-Project)</code></li>
  <li>Open <code>index.html</code> in your preferred web browser.</li>
 </ol>
 
