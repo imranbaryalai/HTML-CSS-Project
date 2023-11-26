@@ -1,7 +1,8 @@
-<img src="img/Header-Logo-White.png" width="500px">
 
-<img src="img/Header-Logo-Dark.png" width="500px">
-
+<div style="display: flex; ">
+ <img src="img/Header-Logo-White.png" width="500px">
+ <img src="img/Header-Logo-Dark.png" width="500px">
+</div>
 <h1>Mangata and Gallo Luxury Jewelry Website</h1>
 
 <p>Welcome to the showcase of my final project for Meta's HTML and CSS in Depth Course, featuring a fictional client, Mangata and Gallo Luxury Jewelry. This project not only demonstrates my proficiency in HTML and CSS but also showcases my ability to create a visually stunning and functional website tailored to the client's needs.</p>
