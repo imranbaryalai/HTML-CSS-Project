@@ -1,3 +1,7 @@
+<img src="img/Header-Logo-White.png" >
+
+<img src="img/Header-Logo-Dark.png" >
+
 <h1>Mangata and Gallo Luxury Jewelry Website</h1>
 
 <p>Welcome to the showcase of my final project for Meta's HTML and CSS in Depth Course, featuring a fictional client, Mangata and Gallo Luxury Jewelry. This project not only demonstrates my proficiency in HTML and CSS but also showcases my ability to create a visually stunning and functional website tailored to the client's needs.</p>
@@ -18,7 +22,7 @@
 
 <strong>Download and Run Locally:</strong>
 <ol>
- <li><code> git clone https://github.com/imranbaryalai/Meta-HTML-CSS-In-Depth-Final-Project.git/</code></li>
+ <li>Clone the repository: <code>git clone Clone the repository: git clone [https://github.com/your-username/MangataGalloLuxuryJewelry.git](https://github.com/imranbaryalai/Meta-HTML-CSS-In-Depth-Final-Project)</code></li>
  <li>Open <code>index.html</code> in your preferred web browser.</li>
 </ol>
 
