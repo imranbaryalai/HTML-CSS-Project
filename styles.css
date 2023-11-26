@@ -85,7 +85,7 @@ article img {
 
 
 .promotion-section-bg{
-    background-image: url('/img/Promotion-Img.jpg');
+    background-image: url('img/Promotion-Img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
