@@ -1,7 +1,7 @@
 
 <div style="display: flex; justify-content: space-between; align-content: center">
- <img src="img/Header-Logo-White.png" width="500px">
- <img src="img/Header-Logo-Dark.png" width="500px">
+ <img src="img/Header-Logo-White.png" width="350px">
+ <img src="img/Header-Logo-Dark.png" width="350px">
 </div>
 <h1>Mangata and Gallo Luxury Jewelry Website</h1>
 
