@@ -1,6 +1,6 @@
-<img src="img/Header-Logo-White.png" >
+<img src="img/Header-Logo-White.png" width="500px">
 
-<img src="img/Header-Logo-Dark.png" >
+<img src="img/Header-Logo-Dark.png" width="500px">
 
 <h1>Mangata and Gallo Luxury Jewelry Website</h1>
 
